@@ -1,4 +1,4 @@
-package Staafdiagram;
+package h05;
 
 import java.applet.Applet;
 import java.awt.Graphics;
